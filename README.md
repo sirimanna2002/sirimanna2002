@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Malsha Nethmini</h1>
-<h3 align="center">A passionate student of Data Science</h3>
+<h3 align="center">Passionate about Data Science and its real-world applications</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sirimanna2002&label=Profile%20views&color=0e75b6&style=flat" alt="sirimanna2002" /> </p>
+
+- 🌱 I’m currently learning **Python | ReactJS**
 
 - 📫 How to reach me **nsirimanna25@gmail.com**
 
