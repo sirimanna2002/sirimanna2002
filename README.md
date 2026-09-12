@@ -1,15 +1,81 @@
-<h1 align="center">Hi 👋, I'm Malsha Nethmini</h1>
-<h3 align="center">Passionate about Data Science and its real-world applications</h3>
+# Hi, I'm Malsha Nethmini 👋
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sirimanna2002&label=Profile%20views&color=0e75b6&style=flat" alt="sirimanna2002" /> </p>
+### Aspiring Data Scientist | BSc (Hons) Data Science Undergraduate | Passionate about ML & AI
 
-- 🌱 I’m currently learning **Python | ReactJS**
+I am a third-year BSc (Hons) in Data Science undergraduate at
+Sabaragamuwa University of Sri Lanka.
 
-- 📫 How to reach me **nsirimanna25@gmail.com**
+I am passionate about Data Science, Machine Learning, Data Analytics,
+Artificial Intelligence, and Natural Language Processing.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I enjoy working with data, building machine learning models,
+exploring patterns, and developing data-driven solutions to
+real-world problems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Data
+- Python
+- SQL
+- Pandas
+- NumPy
+
+### Machine Learning
+- Scikit-learn
+- Machine Learning
+- Predictive Modelling
+- Feature Engineering
+
+### Data Analysis & Visualization
+- Data Analysis
+- Exploratory Data Analysis
+- Data Visualization
+- Matplotlib
+
+### Databases & Tools
+- MySQL
+- MongoDB
+- Git
+- GitHub
+- Jupyter Notebook
+- Google Colab
+- VS Code
+
+### Other
+- Natural Language Processing (NLP)
+
+---
+
+## 🚀 Featured Projects
+
+### Fair Vision App
+Developed an end-to-end Deep Learning web application that predicts a person's age group from a facial image. The model was built using Convolutional Neural Networks (CNN) and deployed as an interactive web app using Streamlit.
+
+**Technologies:**  Python, TensorFlow/Keras, CNN, Streamlit, NumPy, Pandas, Git/GitHub
+
+---
+
+## 🎓 Education
+
+**BSc (Hons) in Data Science**  
+Sabaragamuwa University of Sri Lanka
+
+---
+
+## 🏆 Achievements
+
+- Selected among the Top 30 Teams – Data Storm 7.0
+- Participant – IEEE Digital Vesak Art Competition 2026
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/malsha-nethmini-vk/
+- Email: nsirimanna25@gmail.com
+
+---
+
+⭐ Thank you for visiting my profile!
