@@ -48,15 +48,6 @@ real-world problems.
 
 ---
 
-## 🚀 Featured Projects
-
-### Fair Vision App
-Developed an end-to-end Deep Learning web application that predicts a person's age group from a facial image. The model was built using Convolutional Neural Networks (CNN) and deployed as an interactive web app using Streamlit.
-
-**Technologies:**  Python, TensorFlow/Keras, CNN, Streamlit, NumPy, Pandas, Git/GitHub
-
----
-
 ## 🎓 Education
 
 **BSc (Hons) in Data Science**  
