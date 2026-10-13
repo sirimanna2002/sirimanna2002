@@ -45,7 +45,7 @@
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| ❤️ **Heart Disease Prediction** | Clinical decision-support app that predicts heart disease risk (Random Forest, 83.6% accuracy) | Python, Scikit-learn, Streamlit | [Code](https://github.com/sirimanna2002/heart-disease-prediction) |
+| ❤️ **Heart Disease Prediction** | Clinical decision-support app that predicts heart disease risk (Random Forest, 83.6% accuracy) | Python, Scikit-learn, Streamlit | [Code](https://github.com/sirimanna2002/heart-disease-prediction) · [Live App](https://heart-disease-prediction-cfnc2dfexemcuoatjvdvrp.streamlit.app/)|
 | ⚖️ **FairVision** | Bias detection and mitigation in a CNN age-group classifier on the FairFace dataset | PyTorch, Streamlit | [Code](https://github.com/sirimanna2002/fairvision-demo) · [Live App](https://fairvision-demo-equyuahjjcnmz8ov6duzfm.streamlit.app/) |
 | 💬 **NLP Sentiment Analysis (BERT)** | Sentiment analysis of social media posts using BERT | Python, BERT, NLP | [Code](https://github.com/sirimanna2002/NLP-Sentiment-Analysis-BERT) |
 
